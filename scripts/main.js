@@ -2,7 +2,7 @@ const { app, globalShortcut, BrowserWindow, session } = require('electron');
 const path = require('path');
 const { switchFullscreenState } = require('./windowManager.js');
 
-var homePage = 'https://www.youtube.com';
+var homePage = 'https://www.github.com';
 var userAgent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.3';
 
 console.log('Using user agent: ' + userAgent);

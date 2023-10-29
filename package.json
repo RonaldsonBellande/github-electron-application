@@ -1,9 +1,9 @@
 {
-  "name": "youtube-electron",
+  "name": "github-electron",
   "appId": "com.github.ronaldsonbellande.${name}",
-  "productName": "Youtube",
+  "productName": "Github",
   "version": "2.0.0",
-  "description": "A Linux desktop web app for Youtube",
+  "description": "A Linux desktop web app for Github",
   "main": "scripts/main.js",
   "scripts": {
     "start": "electron .",
@@ -23,11 +23,11 @@
       "com.github.ronaldsonbellande.${name}.desktop"
     ]
   },
-  "repository": "https://github.com/ronaldsonbellande/youtube-electron",
+  "repository": "https://github.com/ronaldsonbellande/github-electron",
   "keywords": [
     "Electron",
-    "youtube",
-    "Youtube"
+    "github",
+    "Github"
   ],
   "author": "Ronaldson Bellande <ronaldsonbellande@gmail.com>",
   "license": "GPL-3.0",

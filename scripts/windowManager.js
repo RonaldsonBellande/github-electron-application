@@ -52,7 +52,7 @@ app.on('browser-window-created', async function(event, window) {
     }
   });
   window.on('page-title-updated', async function(event, title) {
-    toggleEntertainmentStreamingMode(title.includes('on Youtube'));
+    toggleEntertainmentStreamingMode(title.includes('on Github'));
   });
 });
 

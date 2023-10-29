@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GitHub
+Comment=entertainment services with github
+Comment[ro]=entertainment services with github
+Type=Application
+Exec=/opt/github-electron/github-electron
+Icon=github
+StartupWMClass=github
+Categories=Network;Entertainment
+Keywords=Entertainment;Streaming;GitHub;github;YT
+Keywords[ro]=Entertainment;Streaming
